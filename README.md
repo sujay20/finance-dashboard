@@ -1,48 +1,40 @@
-# Finance Dashboard
+#  Finance Dashboard
 
 A simple web-based Finance Dashboard that helps users track income and expenses, view insights, and manage transactions easily.
+
 ---
 
-##  Features
+## 🚀 Features
 
--  **Dashboard Overview**
+- 📌 **Dashboard Overview**
   - Shows Total Balance, Income, and Expenses
   - Simple charts for balance trend and spending categories
 
--  **Transaction Management**
+- 💰 **Transaction Management**
   - View all transactions in a table
   - Filter by type, category, and month
   - Search transactions easily
 
--  **Add / Edit / Delete (Admin only)**
+- ➕ **Add / Edit / Delete (Admin only)**
   - Admin can add new transactions
   - Edit or delete existing ones
 
--  **Role Switching**
+- 🔄 **Role Switching**
   - Viewer → Can only view data
   - Admin → Can manage transactions
 
--  **Insights Section**
+- 📊 **Insights Section**
   - Shows:
     - Most spending category
     - Most used category
 
 ---
 
-##  Tech Stack
+## 🛠️ Tech Stack
 
 - HTML
 - CSS
 - JavaScript (Vanilla JS)
-
----
-
-##  Project Structure
-├── index.html # Main HTML file
-├── style.css # Styling
-├── script.js # Main logic
-├── data.js # Sample transaction data
-├── images/ # Logo 
 
 ---
 
