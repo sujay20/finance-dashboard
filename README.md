@@ -3,7 +3,7 @@
 A simple web-based Finance Dashboard that helps users track income and expenses, view insights, and manage transactions easily.
 ---
 
-## 🚀 Features
+##  Features
 
 -  **Dashboard Overview**
   - Shows Total Balance, Income, and Expenses
